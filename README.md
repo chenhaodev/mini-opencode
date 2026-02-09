@@ -275,9 +275,9 @@ cp .opencode/profiles/baseline-bak2.json .opencode/oh-my-opencode.json
 | **oracle** | claude-haiku-4-5 | deepseek-reasoner | claude-haiku-4-5 | deepseek-reasoner | gpt-5.2 (high) |
 | **explore** | glm-4.7-free | glm-4.7-free | claude-haiku-4-5 | glm-4.7-free | claude-haiku-4-5 |
 | **librarian** | glm-4.7-free | glm-4.7-free | claude-haiku-4-5 | glm-4.7-free | glm-4.7-free |
-| **atlas** | - | - | - | - | kimi-k2.5-free |
-| **hephaestus** | - | - | - | - | gpt-5.2-codex (medium) |
-| **momus** | - | - | - | - | gpt-5.2 (medium) |
+| **atlas** | kimi-k2.5-free | glm-4.7-free | claude-haiku-4-5 | deepseek-chat | kimi-k2.5-free |
+| **hephaestus** | deepseek-reasoner | deepseek-reasoner | claude-haiku-4-5 | deepseek-reasoner | gpt-5.2-codex (medium) |
+| **momus** | deepseek-reasoner | minimax-m2.1-free | claude-haiku-4-5 | deepseek-reasoner | gpt-5.2 (medium) |
 
 ### Category Assignments by Profile
 

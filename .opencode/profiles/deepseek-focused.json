@@ -19,6 +19,15 @@
     },
     "librarian": {
       "model": "opencode/glm-4.7-free"
+    },
+    "atlas": {
+      "model": "deepseek/deepseek-chat"
+    },
+    "hephaestus": {
+      "model": "deepseek/deepseek-reasoner"
+    },
+    "momus": {
+      "model": "deepseek/deepseek-reasoner"
     }
   },
   

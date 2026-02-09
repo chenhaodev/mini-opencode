@@ -19,6 +19,15 @@
     },
     "librarian": {
       "model": "anthropic/claude-haiku-4-5"
+    },
+    "atlas": {
+      "model": "anthropic/claude-haiku-4-5"
+    },
+    "hephaestus": {
+      "model": "anthropic/claude-haiku-4-5"
+    },
+    "momus": {
+      "model": "anthropic/claude-haiku-4-5"
     }
   },
   
